@@ -6,6 +6,25 @@
 - ⚡ Fun fact: I started learning to code using a Ruby scripting language with RPG Maker.
 
 <details>
+  <summary>Technologies</summary>
+
+* ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+* ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+* ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+* ![ReactiveX](https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+* ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+* ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+* ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+* [Azure]()
+* [OpenAI]()
+* [Semantic Kernel]()
+* [python]()
+* [dotnet]()
+* [LangChain]()
+* [Prompt Flow]()
+</details>
+
+<details>
   <summary>Projects</summary>
 
 * [Hygiene](https://github.com/TylerKendrick/Hygiene)
@@ -19,6 +38,7 @@
   * [dev.to](https://dev.to/tyler_kendrick_b8e3240e37)
   * [LinkedIn](https://www.linkedin.com/in/kendricktyler/)
   * [stackoverflow](https://stackoverflow.com/users/423046/tyler-kendrick)
+  * [medium](https://medium.com/@tyler-kendrick)
   * [discord](ffffff)
 </details>
 
