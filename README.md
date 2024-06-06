@@ -1,4 +1,6 @@
-## Hi there 👋
+## @Work
+
+I work in application innovation @Microsoft. I build AI Copilots to help enterprises soar to the Azure cloud.
 
 - 🔭 I’m currently working on: Building AI Copilots with Semantic Kernel and Langchain.
 - 🌱 I’m currently learning about bleeding edge LLM integration patterns.
